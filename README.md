@@ -17,7 +17,11 @@
   - Python3
   - networkx
   - MeCab0.996(mecab-ipadic-NEologdの辞書を使用)
-- 補足
+- 注意
   - 取ってきた単語は「単語リスト.txt」というテキストファイルに保存されますが、プログラムを起動するごとに上書きされます。
   - 辞書に載っていない単語をTwitterから拾ってしまった場合にエラーが出て終了します。ご容赦ください。
 ## 実行例
+- 11月11日22時35分 「防災グッズ」で検索   
+  ![example](https://user-images.githubusercontent.com/38711550/48556075-390d4480-e926-11e8-87ef-24d1803ab1b2.png)   
+- 中心部の拡大図   
+  ![example_center](https://user-images.githubusercontent.com/38711550/48555946-e16ed900-e925-11e8-847f-83a7a86c95fc.png)
